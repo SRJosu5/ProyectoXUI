@@ -1,0 +1,4 @@
+Usuario:admin,Clave:admin,Edad:18
+Usuario:David,Clave:david1408,Edad:18
+Usuario:ldfer,Clave:12345,Edad:20
+Usuario:lupe,Clave:lucy14,Edad:41
